@@ -2,8 +2,8 @@
 
 > Study on the various GraphQL approaches
 
-- [] docs
+- [ ] docs
 ---
-- [] Simple
+- [ ] Simple
 - [x] w/ Apollo
-- [] w/ Relay
+- [ ] w/ Relay
